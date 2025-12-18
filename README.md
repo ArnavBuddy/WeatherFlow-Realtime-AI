@@ -92,7 +92,7 @@ Replace `{session_id}` with a valid UUID.
 
 **Example using a client like Postman or a custom script:**
 1. Connect to `ws://127.0.0.1:8000/ws/session/550e8400-e29b-41d4-a716-446655440000`
-2. Send a text message (e.g., "Hello, who are you?").
+2. Send a text message (e.g., "How's the weather in Delhi ?").
 3. Receive the streamed response from the AI.
 
 ## Key Design Choices
